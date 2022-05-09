@@ -1,36 +1,34 @@
 # **Takım İsmi**
 
-Takım X
+170: Agena
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Yasemın Osmanoglu: Product Owner
+- Sıbel Karaboga: Scrum Master
+- Simge Kurtulus/ Yasemın Osmanoglu/ Sibel Karaboga: Team Member/Developer
 
 ## Ürün İsmi
 
---Movie App--
+## VIRTUAL MENU
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
-
+- Vırtual menü uygulamamız ile insanların istediği zaman yemek, içecek fiyatlarına ulaşabileceği sanal menü tasarlayacağız. İçerisinde binlerce cafe ve restaurantın menüsünü içeren bu uygulamamız aynı zamanda yeni açılan cafe ve restaurantların ve mevcut olanların reklamını yapacak.
+- 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- Güncel menü fiyatlarını gösterme.
+- Konuma göre en çok tercih edilen restaurant ve cafeleri gösterme.
+- Şehir, semt, mahalle olarak ayrılıyor olacak.
+- Yeni açılan cafe ve restaurantları gösterme.
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
+- Yemek menüsüne dikkat eden kullanıcılar
+- Yemek yiyen her insan
 - 15 - 65 yaş arası kullanıcılar
 
 ## Product Backlog URL
