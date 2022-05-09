@@ -17,7 +17,7 @@
 ## Ürün Açıklaması
 
 - Vırtual menü uygulamamız ile insanların istediği zaman yemek, içecek fiyatlarına ulaşabileceği sanal menü tasarlayacağız. İçerisinde binlerce cafe ve restaurantın menüsünü içeren bu uygulamamız aynı zamanda yeni açılan cafe ve restaurantların ve mevcut olanların reklamını yapacak.
-- 
+
 ## Ürün Özellikleri
 
 - Güncel menü fiyatlarını gösterme.
