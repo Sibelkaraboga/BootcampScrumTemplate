@@ -1,36 +1,35 @@
 # **Takım İsmi**
 
-Takım X
+170: Agena
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Yasemın Osmanoglu: Product Owner
+- Sıbel Karaboga: Scrum Master
+- Simge Kurtulus/ Yasemın Osmanoglu/ Sibel Karaboga: Team Member/Developer
 
 ## Ürün İsmi
 
---Movie App--
+--VIRTUAL MENU--
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+- Vırtual menü uygulamamız ile insanların istediği zaman yemek, içecek fiyatlarına ulaşabileceği sanal menü tasarlayacağız. İçerisinde binlerce cafe ve restaurantın menüsünü içeren bu uygulamamız aynı zamanda yeni açılan cafe ve restaurantların ve mevcut olanların reklamını yapacak.
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- Güncel menü fiyatlarını gösterme.
+- Konuma göre en çok tercih edilen restaurant ve cafeleri gösterme.
+- Şehir, semt, mahalle olarak ayrılıyor olacak.
+- Yeni açılan cafe ve restaurantları gösterme. 
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
+- Uygulama kullanıcıları
+- Yemek menüsüne dikkat eden kullanıcılar
+- Yemek yiyen her insan
 - 15 - 65 yaş arası kullanıcılar
 
 ## Product Backlog URL
@@ -56,11 +55,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
 ![Backlog 2](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
-![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
 
 - **Sprint Review**: 
 Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
